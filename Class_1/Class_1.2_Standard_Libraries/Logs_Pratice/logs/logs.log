@@ -1,0 +1,8 @@
+2021-10-20 20:30:31,487 | INFO -> Starting the process
+2021-10-20 20:30:33,016 | ERROR -> invalid literal for int() with base 10: 'a'
+2021-10-20 20:30:35,300 | DEBUG -> User typed number 1
+2021-10-20 20:30:35,820 | DEBUG -> User typed number 2
+2021-10-20 20:30:35,820 | DEBUG -> Result of division of 1 by 2 is 0.5
+2021-10-20 20:30:46,380 | DEBUG -> User typed number 1
+2021-10-20 20:30:46,916 | ERROR -> invalid literal for int() with base 10: ''
+2021-10-20 20:30:46,916 | INFO -> Quiting the process
