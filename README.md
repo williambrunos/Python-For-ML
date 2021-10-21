@@ -5,4 +5,4 @@ This repository stores my progress on "Python for Machine Learning" course of Le
 ## Class 1
 
 - Functional Programming Paradigm
-- Standard Python Libraries
+- Standard Python Libraries - Itertools, Regex, Logging
